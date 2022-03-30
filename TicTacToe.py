@@ -1,5 +1,3 @@
-print("HELLO ")
-print("This game is developed by ATHARV PATIL")
 print("Enter the number where you want to mark your sign(X/O)")
 print('''1 2 3
 4 5 6
